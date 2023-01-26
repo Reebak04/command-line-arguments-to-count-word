@@ -7,6 +7,7 @@ To write a python program for getting the word count from the contents of a file
 ## EQUIPEMENT'S REQUIRED: 
 
    1.PC
+   
    2.Anaconda - Python 3.7
    
 ## ALGORITHM: 
